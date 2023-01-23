@@ -183,9 +183,38 @@ p{
   color: #4A4D60; 
 }
 
-.pr-after {
+#after-bas {
   display: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 71px;
+  letter-spacing: -2.16px;
+  
+  color: #4A4D60; 
 }
+#after-pro{
+  display: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 71px;
+  letter-spacing: -2.16px;
+  
+  color: #FFFFFF; 
+}
+
+#after-mas{
+  display: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 71px;
+  letter-spacing: -2.16px;
+  
+  color: #4A4D60; 
+}
+
 .basic-char .pro-char{
   margin-top: 32px;
   gap: 12px;
